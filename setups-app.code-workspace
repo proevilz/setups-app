@@ -1,0 +1,11 @@
+{
+    "folders": [
+		{
+			"path": "../setups-app-backend"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {}
+}
